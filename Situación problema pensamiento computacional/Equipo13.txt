@@ -1,0 +1,10 @@
+¿Cuántos millones de personas habitan el planeta?≤1000º0≤2000º0≤7000º0≤8000º1
+¿Qué nombre se le da a la agricultura que no ultima productos químicos como abonos?≤Industrialº0≤Naturalº0≤Biodegradableº0≤Orgánicaº1
+¿Cuál de estos países no tiene acceso al Mar Mediterráneo?≤Esloveniaº0≤Chipreº0≤Egiptoº0≤Serbiaº1
+¿Cuál es la capital de México?≤DFº0≤Méxicoº0≤Monterreyº0≤CDMXº1
+¿Que suelen forman los volcanes submarinos cuando el material que expulsa rebasa el nivel del mar?≤Montañasº0≤Ciudadesº0≤Nadaº0≤Islasº1
+¿Cuántos estados tiene México?≤20º0≤58º0≤40º0≤32º1
+¿Cuál es la capital de Francia?≤Vienaº0≤Ámsterdamº0≤Bruselasº0≤Parísº1
+¿Cuál es el río más largo del mundo?≤Niloº0≤Mississippiº0≤Danubioº0≤Amazonasº1
+¿Cuál es la capital de España?≤Parísº0≤Berlínº0≤Romaº0≤Madridº1
+¿Cuántos continentes hay?≤9º0≤6º0≤10º0≤7º1

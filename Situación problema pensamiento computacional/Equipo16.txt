@@ -1,0 +1,5 @@
+Instrucción para desplegar Hola! y el valor de la variable nombre≤print('Hola!{nombre}')º0≤print(f'Hola![nombre]')º0≤print(f'Hola!,nombre')º0≤print(f'Hola!{nombre}')}º1
+Instrucción para Leer un valor entero en edad≤int(input( ))º1≤float(input( ))º0≤input( )º0≤str(input())º0
+Instrucción para Leer la estatura en mts≤float(input("Estatura(mts)"))º1≤int(input("Estatura(mts)"))º0≤str(input("Estatura(mts)"))º0≤input("Estatura(mts)")º0
+Instrucción para desplegar la parte entera de la variable float promedio≤print(int(promedio))º1≤print(promedio)º0≤print(str(promedio))º0≤print(float(promedio))º0
+Instrucción para leer el nombre≤input( )º1≤int(input( ))º0≤float(input( ))º0≤inputº0

@@ -1,0 +1,10 @@
+¿Qué es un sinónimo?≤Los sinónimos son palabras que tienen el mismo significadoº1≤Los sinónimos son palabras que tienen un significado distintoº0≤Palabras que se escriben igual y suenan diferentesº0≤Palabras que se escriben igual y suenan igualº0
+Indica el sinónimo de 'habilitar':≤Capacitarº1≤Distenderº0≤Invalidarº0≤Descargarº0
+¿Qué son los antónimos?≤Cuando dos palabras de escriben igual y significan los mismoº0≤Cuando dos palabras se escriben igual y significan lo mismoº0≤Cuando una palabra significa lo opuesto a la otraº1≤Cuando dos palabras se escriben y pronuncian igualº0
+Indica el antónimo de 'Resistir':≤Cederº1≤Apoyarº0≤Facilitarº0≤Promoverº0
+Indica el sinónimo de cautivo≤Cautoº0≤Prisioneroº1≤Locuazº0≤Derrotadoº0
+Se refiere al animal que puede vivir en la tierra y el agua≤Anfibioº1≤Antropoideº0≤Acuáticoº0≤Inflamableº0
+Palabra que hace referencia a monjes o monjas≤Mímicoº0≤Monásticoº1≤Sarcásticoº0≤Escolásticoº0
+Si continuamos consumiendo nuestras reservas de petróleo sin restricción, entonces algun día estarán ______.≤Limitadasº0≤Inserviblesº0≤Agotadasº1≤Disponiblesº0
+La estrella del programa es un artista ______ que canta, baila y actúa con igual facilidad.≤Pretensiosoº0≤Versátilº1≤Miopeº0≤Quijotescoº0
+El reporte del comité no es válido como tal ya que sólo toma en cuenta los síntomas y no las causas ______ del problema.≤Incipientesº0≤Superfluasº0≤Intrínsecasº1≤Esmeradasº0

@@ -1,0 +1,10 @@
+Una escalera cuenta con 14 peldaños iguales y mide 252cm, ¿Cuál es la altura de cada peldaño?≤18cmº1≤20cmº0≤36cmº0≤9cmº0
+Se quiere pavimentar el patio rectangular de una casa que mide 5.25m de largo y 3m de ancho. Si se necesitan 81 ladrillos para pavimentar un metro cuadrado, ¿Cuántos ladrillos se necesitan para pavimentar todo el patio?≤1276 ladrillosº0≤1275.25 ladrillosº1≤15.75 ladrillosº0≤425.25 ladrillosº0
+Una pizzería sirve 2 pizzas redondas de diferente tamaño pero con el mismo grosor. La más pequeña tiene un diámetro de 30cm y cuesta 30 euros. La grande tiene un diámetro de 40cm y cuesta 40 euros, ¿Qué pizza tiene mejor precio (Un área mayor por un menor precio)?≤La de 40cmº1≤La de 30cmº0 
+La Tierra tiene un diámetro de 12,700km. Si la estación espacial gira alrededor de la Tierra con una altura de 400km, ¿Cuál es la distancia total que recorre en su órbita?≤13500piº1≤13100piº0≤12700piº0≤400piº0 
+Un triángulo tiene dos ángulos interiores que miden 60 grados cada uno, ¿Qué tipo de triángulo es?≤equiláteroº1≤escálenloº0≤isóscelesº0
+Si la mediana de un trapecio es 9m y la base mayor es 16m. Calcular la base menor.≤3mº0≤7mº0≤2mº1≤7/9mº0 
+Una ventaja de utilizar una vela-cometa es que está vuela a una altura de 150 m. Allí, la velocidad del viento es, aproximadamente, un 25% mayor que sobre la cubierta del barco. ¿A qué velocidad, aproximadamente, sopla el viento en una vela-cometa cuando sobre la cubierta de un buque portacontenedor la velocidad del viento es de 24 km/h?≤25km/hrº0≤30km/hrº1≤35km/hrº0≤90km/hrº0
+¿Cómo se llama el poligono cuya suma de ángulos interiores es 720? ≤hexágonoº1≤octágonoº0≤heptágonoº0≤docagonoº0
+Calcule el máximo valor entero de “10x”. Si el triángulo es acutángulo.≤30º0≤6º0≤60º1≤45º0
+La geometría aparece en Grecia, gracias a Thales.≤todas son verdaderas≤Vº0≤Fº1

@@ -1,0 +1,10 @@
+¿En qué año fue la independencia de México?≤1810º1≤1910º0≤1890º0≤1990º0
+¿Quién es conocido como “El padre de la patria”?≤Ignacio Allendeº0≤Miguel Hidalgo y Costillaº1≤José María y Pavónº0≤Vicente Guerreroº0
+Era el General que encabezaba el ejército Trigarante≤Agustín de Iturbideº1≤Juan Aldamaº0≤Ignacio Allendeº0≤Miguel Hidalgoº0
+¿Qué se celebra la noche del 15 de septiembre?≤La independencia de Méxicoº1≤La Revolución Mexicanaº0≤El día de los símbolos patriosº0≤Grito de doloresº0
+Protagonistas del abrazo de Acatempan≤Agustín de Iturbide y Vicente Guerreroº1≤Miguel Hidalgo y Vicente Guerreroº0≤Vicente Guerrero e Ignacio Allendeº0≤Vicente Guerrero y Juan Ruiz de Apodacaº0
+¿Cuántos estados tiene México?≤31º1≤33º0≤34º0≤27º0
+¿Qué  presidente vendió una gran parte del territorio mexicano a Estados Unidos?≤Antonio López de Santa Annaº1≤Porfirio Diazº0≤Guadalupe Victoriaº0 ≤Ignacio Allendeº0
+¿Cuántos años duró Porfirio Diaz en el poder?≤31º1≤6º0≤15º0≤37º0
+¿En qué año llegó Cristobal Colón a América?≤1492º1≤1410º0≤1536º0≤1842º0
+¿Contra quién fue el enfrentamiento de la batalla de Puebla?≤El ejército Francésº1≤El ejército Alemánº0≤El ejército Estadounidenseº0≤El ejército Inglésº0

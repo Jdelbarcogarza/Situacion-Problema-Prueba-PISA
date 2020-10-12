@@ -1,0 +1,10 @@
+¿Qué muestra la tabla periódica?≤Elementosº1≤Moléculasº0≤Álcalisº0≤Ácidosº0
+A mayor altura, la presión atmosférica …≤Aumentaº0≤Disminuyeº1≤No cambiaº0≤Desapareceº0
+¿Qué representa el número 7 del nitrógeno?≤Masa atómicaº0≤Isótopoº0≤Número atómicoº1≤Nitrógenoº0
+La fórmula H2O tiene≤2 átomos de aguaº0≤2 moléculas de aguaº0≤2 átomos de hidrógenoº1≤2 átomos de oxígenoº0
+¿Cuál es la partícula negativa?≤Protonº0≤Núcleoº0≤Electrónº1≤Neutrónº0
+¿Cuál es la partícula positiva?≤Protonº1≤Núcleoº0≤Electrónº0≤Neutrónº0
+En condiciones normales, 1 mol equivale a…≤64.2 Lº0≤22.4 Lº1≤49.1 Lº0≤89.3 Lº0
+¿Dónde se encuentran los metales en la tabla periódica?≤Lado izquierdoº1≤Mitad inferiorº0≤Mitad superiorº0≤Lado derechoº0
+¿Dónde se encuentran los no metales en la tabla periódica?≤Lado izquierdoº0≤Mitad inferiorº0≤Mitad superiorº0≤Lado derechoº1
+¿Dónde se encuentran los grupos en la tabla periódica?≤Filasº0≤Columnasº1≤Mitad superiorº0≤Mitad inferiorº0
