@@ -197,6 +197,36 @@ def kahoot(nombre):
     print()
     print('Repaso:')
     
+    '''
+    Aqui abrimos el archivo que contiene las preguntas motivacionales para que
+    se despliegen en cada pregunta de repaso que el usuario tenga
+        '''
+        
+    #frases_motivacionales = open("Frases motivacionales Equipo 2.txt", encoding="utf-8")
+    # inicializamos la lsita que contendrá nuestras frases
+    lista_frases = ["A la cima no se llega superando a los demas. Sino superandose a si mismo",
+                    "Debes hacer las cosas que crees que no puedes hacer",
+                    "Si dominamos nuestra mente, vendrá la felicidad",
+                    "Cáete siete veces y levantante ocho", "Todo lo que puedas imaginar, es real",
+                    "La esperanza es el sueño del hombre despierto",
+                    "Un objetivo sin plan es solo un deseo",
+                    "si no te gustan las cosas, ¡cámbialas! No eres un árbol",
+                    "El poder de la imaginación nos hace infinitos",
+                    "El mejor momento del día es ahora"]
+    #iteramos sobre el archivo para obtener nuestras frases y
+    #colocarlas en las lista de "lista_frases"
+    #for oracion in frases_motivacionales:
+            
+        #frase = frases_motivacionales.readline()
+        #con esta línea quitamos el salto de línea que contenía cada elemento
+        #de nuestra lista
+        #frase = frase[:-1]
+        #lista_frases.append(frase)
+            
+    #cerramos el archivo, pues ya contamos con nuestras frases almacenadas
+    #en nuestra lista dentro del archivo de python
+    #frases_motivacionales.close()
+    
     # recorrer la lista de preguntas de repaso
     for iK in lista_preg_repaso:
         pregunta = lista_preg[iK]
@@ -218,36 +248,10 @@ def kahoot(nombre):
         # shuffle de la lista de opciones
         random.shuffle(lista_opciones)
         
-        '''
-        Aqui abrimos el archivo que contiene las preguntas motivacionales para que
-        se despliegen en cada pregunta de repaso que el usuario tenga
-        '''
-        
-        frases_motivacionales = open("Frases motivacionales Equipo 2.txt", encoding="utf-8")
-        # inicializamos la lsita que contendrá nuestras frases
-        lista_frases = []
-        #iteramos sobre el archivo para obtener nuestras frases y
-        #colocarlas en las lista de "lista_frases"
-        for iK in frases_motivacionales:
-            
-            frase = frases_motivacionales.readline()
-            #con esta línea quitamos el salto de línea que contenía cada elemento
-            #de nuestra lista
-            frase = frase[:-1]
-            lista_frases.append(frase)
-            
-        #cerramos el archivo, pues ya contamos con nuestras frases almacenadas
-        #en nuestra lista dentro del archivo de python
-        frases_motivacionales.close()
-
-        #mezclamos la lista de frases motivacionales para que no se repitan en el mismo orden
-        #al usuario
-        random.shuffle(lista_frases)
-        
         print('')
         # muestra las opciones de respuestas ya desordenadas
-        for iK, valor in enumerate(lista_opciones):
-            print(amarillo(), f'{iK}. {valor[0]}')
+        for num, valor in enumerate(lista_opciones):
+            print(amarillo(), f'{num}. {valor[0]}')
         
         #iteramos sobre la lista de respuestas correctas para desplegarsela al usuario
         for index in range(len(lista_opciones)):
@@ -255,12 +259,9 @@ def kahoot(nombre):
             if(lista_opciones[index][1] == '1'):
                 print(reset(),'La respuesta correcta es:')
                 print(verde(),f'{lista_opciones[index][0]}')
-                print(azul(), lista_frases[index])
+                
+        print(azul(), lista_frases[iK])
         #imprimimos con el método choice una frase motivacional de nuestra lista.
-                '''
-                Podemos hacer que no se repitan las frases motivacionales pero me dio flo
-                '''
-                #print(azul(),random.choice(lista_frases))
                 
         # Hacer una pausa - reflexione - sobre la respuesta - desplegar una frase motivacional o una imagen.
         print(negro(),'Presiona <enter>',end ='')
@@ -294,7 +295,14 @@ def menu():
     print(rojo(), '16 - Computación')
     print(rojo(), '17 - Ingresa el nombre del pool de preguntas')
     print(rojo(), '0 - Salir')
-    return int(input('Teclea la opción:'))
+    #Validamos el input del usuario para confirmar un tipo de dato int
+    while(True):
+        try:
+            return int(input('Teclea la opción:'))
+            break
+        except:
+            print("Asegurate de escribir un valor numérico")
+            
     
 def main():
     
