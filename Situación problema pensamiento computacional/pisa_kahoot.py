@@ -199,7 +199,11 @@ def kahoot(nombre):
     
     '''
     Aqui abrimos el archivo que contiene las preguntas motivacionales para que
-    se despliegen en cada pregunta de repaso que el usuario tenga
+    se despliegen en cada pregunta de repaso que el usuario tenga.
+    
+    Decidí quitar la lectura de archivo de frases motivacionales para simplificar
+    el código. Aún tenía unas fallas entonces lo reemplacé con una lista
+    de frases.
         '''
         
     #frases_motivacionales = open("Frases motivacionales Equipo 2.txt", encoding="utf-8")
